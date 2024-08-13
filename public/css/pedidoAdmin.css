@@ -1,0 +1,15 @@
+#list-pedidos{
+    height: 340px;
+}
+
+#list-produtos{
+    height: 286px;
+}
+
+.fa-solid.fa-pencil-square{
+    color: dodgerblue;
+}
+
+.fa-solid.fa-trash{
+    color: tomato;
+}
